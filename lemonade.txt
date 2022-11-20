@@ -2,5 +2,5 @@ Recipe for my lemonade:
 
 1. Water
 2. Lemon
-3. Sugar
+3. Less sugar
 4. Cup
